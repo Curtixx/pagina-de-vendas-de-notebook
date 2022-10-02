@@ -1,0 +1,39 @@
+span{
+    background-color: blue;
+    color: yellow;
+    font-size: 11pt;
+    border: 1px solid darkblue;
+}
+.textoprin{
+    font-size: 9pt;
+    width: 170px;
+    text-align: left;
+}
+.textsec{
+    color: red;
+    margin-top: -0.1cm;
+    margin-right: 5px;
+}
+.global{
+    display: flex;
+    justify-content: center;
+    margin-top: 5cm;
+    margin-bottom: 10cm;
+    margin-left: 15cm;
+    margin-right: 15cm;
+
+}
+img{
+    margin-left: 0.8cm;
+}
+.de{
+    font-size: 12px;
+}
+.textter{
+    color: red;
+    margin-top: -0.7cm;
+}
+.pt2{
+    margin-left: 10px;
+    margin-right: 10px;
+}
